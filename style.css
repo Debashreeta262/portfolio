@@ -887,6 +887,11 @@ a.lab-card:hover {
   color: var(--accent);
 }
 
+.lab-status.pending {
+  background: rgba(255, 193, 7, 0.15);
+  color: #ffc107;
+}
+
 .lab-open {
   display: flex;
   align-items: center;
